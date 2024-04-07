@@ -35,7 +35,7 @@ There are two reasons by I am at GitHub:
   <tr>
     <td valign="top" width="50%">
       <h3>🌳 Professional expertise</h3>
-      <p>The arsenal where I claim proficiency. I wield these technologies daily in my professional environment. I confidently adhere to the best practices, and I ensure speed and reliability.</p>
+      <p>The arsenal where I claim proficiency. I wield these technologies daily in my professional environment. I confidently adhere to their best practices, and I ensure speed and reliability.</p>
       <p>
         <img src="https://img.shields.io/badge/Vanilla%20JavaScript-gray?style=flat-square&logo=javascript" alt="Vanilla JavaScript badge">
         <img src="https://img.shields.io/badge/Tampermonkey-gray?style=flat-square&logo=tampermonkey" alt="Tampermonkey badge">
@@ -73,7 +73,7 @@ There are two reasons by I am at GitHub:
     </td>
     <td valign="top" width="50%">
       <h3>👀 On my radar</h3>
-      <p>Technologies that have piqued my interest and are next in line for my learning journey. While not yet a part of my toolkit, these languages and tools represent the direction I'm excited to take.</p>
+      <p>Technologies that have piqued my interest and are next in line for my learning journey. While not yet a part of my toolkit, they represent the direction I'm excited to take.</p>
         <img src="https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linux" alt="Linux badge">
         <img src="https://img.shields.io/badge/AWS-gray?style=flat-square&logo=amazonaws" alt="AWS badge">
     </td>
