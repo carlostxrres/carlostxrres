@@ -15,7 +15,7 @@ Before my dive into the tech world, my academic and professional background was 
 
 ## What I do at GitHub
 
-There are two reasons by I am at GitHub:
+There are two reasons why I am at GitHub:
 
 1. **To store personal learning projects:** I store personal projects that reflect my learning journey outside my job and area of expertise.
 2. **To learn collaborative software development:** By working independently, I am missing the collaborative aspect of software development. I am here to connect with fellow developers, contribute to open-source projects, and grow my understanding of collaborative software development.
