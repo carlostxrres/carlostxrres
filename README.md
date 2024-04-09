@@ -76,6 +76,8 @@ There are two reasons why I am at GitHub:
       <p>Technologies that have piqued my interest and are next in line for my learning journey. While not yet a part of my toolkit, they represent the direction I'm excited to take.</p>
         <img src="https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linux" alt="Linux badge">
         <img src="https://img.shields.io/badge/AWS-gray?style=flat-square&logo=amazonaws" alt="AWS badge">
+        <img src="https://img.shields.io/badge/Next%20JS-gray?style=flat-square&logo=nextdotjs" alt="Next JS badge">
+        <img src="https://img.shields.io/badge/Astro-gray?style=flat-square&logo=astro" alt="Astro badge">
     </td>
   </tr>
 </table>
