@@ -100,7 +100,7 @@ const settings = {
     version: 1.0, // Keep this comma!
 }
 ```
-And secretly, I hope JSON will someday agree with me.
+I hope JSON will someday accept this.
 
 ### :question: Prioritize chained ternaries
 I find chained ternaries underused, while they streamline decisions without the bloat of traditional conditionals and switches:
@@ -126,7 +126,7 @@ Opt for full names over cryptic abbreviations. To name some typical examples:
 * `pos` :arrow_right: `position`
 * `args` :arrow_right: `arguments`
 
-I would rather call a variable `getNextPointLeftPositionPercentage` than risk future confusion.
+I would rather call a variable `getNextPointLeftPositionPercentage` than risk clarity.
 
 Verbose? Maybe. Clearer? Definitely.
 
