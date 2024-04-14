@@ -20,15 +20,6 @@ There are two reasons why I am at GitHub:
 1. **To store personal learning projects:** I store personal projects that reflect my learning journey outside my job and area of expertise.
 2. **To learn collaborative software development:** By working independently, I am missing the collaborative aspect of software development. I am here to connect with fellow developers, contribute to open-source projects, and grow my understanding of collaborative software development.
 
-## My coding philosophy
-
-- **📚 Best practices and clean code:** Clarity, simplicity, and readability.
-- **❌ Avoid semicolons (JavaScript):** Just write less.
-- **⬇️ Un-nesting:** Flatten structures where possible.
-- **⏳ Progressive learning:** Focus on one area at a time.
-- **🏗️ Object-oriented:** OOP principles foster scalable, modular code with clear responsibilities.
-- **🤫 Silence:** Please stay quiet while I'm working, I need focus.
-
 ## My stack
 
 <table>
@@ -94,6 +85,66 @@ There are two reasons why I am at GitHub:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlostxrres&theme=transparent&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostxrres&layout=compact&theme=transparent&hide_border=true)
+
+## My JavaScript quirks & unpopular opinions
+
+### :scissors: Anti-semicolons
+Why use semicolons when the JavaScript interpreter doesn’t require them in 99% of cases?
+
+### :heavy_plus_sign: Keep the last trailing comma
+Treat the last element of an array or object the same as the others. Consistency matters:
+```javascript
+const settings = {
+    theme: 'dark',
+    notifications: true,
+    version: 1.0, // Keep this comma!
+}
+```
+And secretly, I hope JSON will someday agree with me.
+
+### :question: Prioritize chained ternaries
+I find chained ternaries underused. They streamline decisions without the bloat of traditional conditionals and switches:
+```javascript
+const discount = quantity < 10
+    ? 0
+    : quantity < 20
+    ? .1
+    : quantity < 50
+    ? .15
+    : quantity < 100
+    ? .2
+    : .25
+```
+
+### :speaking_head: Do not skimp on variable names
+Opt for full names over cryptic abbreviations. To name some typical examples:
+* `i` :arrow_right:➡️ `index`
+* `e` :arrow_right: `event`
+* `el` :arrow_right: `element`
+* `arr` :arrow_right: `array`
+* `str` :arrow_right: `string`
+* `pos` :arrow_right: `position`
+* `args` :arrow_right: `arguments`
+
+I would rather call a variable `getNextPointLeftPositionPercentage` than risk future confusion.
+
+Verbose? Maybe. Clearer? Definitely.
+
+### :camel: Camelize acronyms too
+Standardize the camel casing, even in acronyms:
+| :frowning_face: Avoid | :grinning: Prefer  |
+| --- | --- |
+| `getURLSlug` | `getUrlSlug` |
+| `userID`     | `userId`     |
+
+### :triangular_ruler: Symmetrical name pairs
+When related variables work together, I prefer them to be symmetrical in length —as long as they remain semantically accurate:
+| :frowning_face: Mismatched | :grinning: Matched |
+| --- | --- |
+| `openModal` (9 characters)   | `showModal` (9 characters) |
+| `closeModal` (10 characters) | `hideModal` (9 characters) |
+
+I've dedicated more time than I'd like to admit searching for synonyms to achieve this symmetry. Common unpleasant pairs include `input`/`output`, `start`/`end`, `first`/`last`, and `true`/`false`.
 
 <!--
 ## Get in touch
