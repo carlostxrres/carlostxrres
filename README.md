@@ -13,13 +13,6 @@ While my journey in tech is mostly self-taught, I've enriched my experience thro
 
 Before my dive into the tech world, my academic and professional background was in political science and linguistics.
 
-## What I do at GitHub
-
-There are two reasons why I am at GitHub:
-
-1. **To store personal learning projects:** I store personal projects that reflect my learning journey outside my job and area of expertise.
-2. **To learn collaborative software development:** By working independently, I am missing the collaborative aspect of software development. I am here to connect with fellow developers, contribute to open-source projects, and grow my understanding of collaborative software development.
-
 ## My stack
 
 <table>
@@ -79,6 +72,13 @@ There are two reasons why I am at GitHub:
 ![Firefox badge](https://img.shields.io/badge/Firefox%20browser-gray?style=flat-square&logo=firefoxbrowser)
 ![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-gray?style=flat-square&logo=visualstudiocode)
 
+## What I do at GitHub
+
+There are two reasons why I am at GitHub:
+
+1. **To store personal learning projects:** I store personal projects that reflect my learning journey outside my job and area of expertise.
+2. **To learn collaborative software development:** By working independently, I am missing the collaborative aspect of software development. I am here to connect with fellow developers, contribute to open-source projects, and grow my understanding of collaborative software development.
+
 ## My GitHub stats
 
 <!-- Taken from KimBergstroem, who in turn cites anuraghazra and DenverCoder1 -->
@@ -103,7 +103,7 @@ const settings = {
 And secretly, I hope JSON will someday agree with me.
 
 ### :question: Prioritize chained ternaries
-I find chained ternaries underused. They streamline decisions without the bloat of traditional conditionals and switches:
+I find chained ternaries underused, while they streamline decisions without the bloat of traditional conditionals and switches:
 ```javascript
 const discount = quantity < 10
     ? 0
@@ -118,7 +118,7 @@ const discount = quantity < 10
 
 ### :speaking_head: Do not skimp on variable names
 Opt for full names over cryptic abbreviations. To name some typical examples:
-* `i` :arrow_right:➡️ `index`
+* `i` :arrow_right: `index`
 * `e` :arrow_right: `event`
 * `el` :arrow_right: `element`
 * `arr` :arrow_right: `array`
