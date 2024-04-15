@@ -40,7 +40,7 @@ Before my dive into the tech world, my academic and professional background was 
         <img src="https://img.shields.io/badge/Git-gray?style=flat-square&logo=git" alt="Git badge">
         <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github" alt="GitHub badge">
         <img src="https://img.shields.io/badge/Vue%20JS-gray?style=flat-square&logo=vuedotjs" alt="Vue badge">
-        <img src="https://img.shields.io/badge/Windows%20Terminal-gray?style=flat-square&logo=windowsterminal" alt="Markdown badge">
+        <img src="https://img.shields.io/badge/Windows%20Terminal-gray?style=flat-square&logo=windowsterminal" alt="Windows terminal badge">
         <img src="https://img.shields.io/badge/AWS%20API%20Gateway-gray?style=flat-square&logo=amazonapigateway" alt="AWS API Gateway badge">
         <img src="https://img.shields.io/badge/AWS%20Lambda-gray?style=flat-square&logo=awslambda" alt="AWS API Lambda badge">
         <img src="https://img.shields.io/badge/AWS%20DynamoDB-gray?style=flat-square&logo=amazondynamodb" alt="AWS DynamoDB badge">
@@ -87,9 +87,10 @@ There are two reasons why I am at GitHub:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlostxrres&layout=compact&theme=transparent&hide_border=true)
 
 ## My JavaScript quirks & unpopular opinions
+Here are some maxims that reflect my personal coding style:
 
-### :scissors: Anti-semicolons
-Why use semicolons when the JavaScript interpreter doesn’t require them in 99% of cases?
+### :scissors: Spare yourself the semicolons
+Remove that (most-of-the-times-)useless dirt.
 
 ### :heavy_plus_sign: Keep the last trailing comma
 Treat the last element of an array or object the same as the others. Consistency matters:
@@ -137,7 +138,7 @@ Standardize the camel casing, even in acronyms:
 | `getURLSlug` | `getUrlSlug` |
 | `userID`     | `userId`     |
 
-### :triangular_ruler: Symmetrical name pairs
+### :triangular_ruler: Aim for symmetrical name pairs
 When related variables work together, I prefer them to be symmetrical in length —as long as they remain semantically accurate:
 | :frowning_face: Mismatched | :grinning: Matched |
 | --- | --- |
@@ -145,6 +146,8 @@ When related variables work together, I prefer them to be symmetrical in length 
 | `closeModal` (10 characters) | `hideModal` (9 characters) |
 
 I've dedicated more time than I'd like to admit searching for synonyms to achieve this symmetry. Common unpleasant pairs include `input`/`output`, `start`/`end`, `first`/`last`, and `true`/`false`.
+
+<!-- Another one: unquoted object keys when possible -->
 
 <!--
 ## Get in touch
