@@ -14,10 +14,10 @@ While my journey in tech is mostly self-taught, I've enriched my experience thro
       <p>2023</p>
     </td>
     <td>
-      <p>Bootcamp in <strong>Back-End</strong> web development at <a href="https://lp.ironhack.com/enterprise/amazon_es" target="_blank" noopener noreferrer>IronHack</a></p>
+      <p>Bootcamp in <strong>back-end</strong> web development at <a href="https://lp.ironhack.com/enterprise/amazon_es" target="_blank" noopener noreferrer>IronHack</a></p>
     </td>
     <td>
-      <p>I immersed myself in Java, Spring Boot, JPA, SQL (MySQL), and Git, culminating in the development of <a href="[https://github.com/ironhack](https://github.com/carlostxrres/inmoBarcelona)" target="_blank" noopener noreferrer>a Barcelona real estate API</a> for publishing, searching, and bookmarking listings.</p>
+      <p>I immersed myself in Java, Spring Boot, JPA, SQL (MySQL), and Git, culminating in the development of <a href="https://github.com/carlostxrres/inmoBarcelona" target="_blank" noopener noreferrer>a Barcelona real estate API</a> for publishing, searching, and bookmarking listings.</p>
     </td>
   </tr>
   <tr>
@@ -25,7 +25,7 @@ While my journey in tech is mostly self-taught, I've enriched my experience thro
       <p>2024</p>
     </td>
     <td>
-      <p>Bootcamp in <strong>Front-End</strong> web development at <a href="https://lp.ironhack.com/enterprise/amazon_es" target="_blank" noopener noreferrer>IronHack</a></p>
+      <p>Bootcamp in <strong>front-end</strong> web development at <a href="https://lp.ironhack.com/enterprise/amazon_es" target="_blank" noopener noreferrer>IronHack</a></p>
     </td>
     <td>
       <p>Advanced my front-end capabilities with Vue.js.</p>
