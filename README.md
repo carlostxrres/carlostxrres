@@ -8,8 +8,30 @@ I'm obsessed with writing **clean, maintainable code** and following the best pr
 
 While my journey in tech is mostly self-taught, I've enriched my experience through rigorous training programs focused on both front-end and back-end technologies:
 
-- In 2023, I completed a **bootcamp in Back-End Web Development** at [IronHack Barcelona](https://github.com/ironhack). There, I immersed myself in Java, Spring Boot, JPA, SQL (MySQL), and Git, culminating in the development of [a Barcelona real estate API](https://github.com/carlostxrres/inmoBarcelona) for publishing, searching, and bookmarking listings.
-- As of March 2024, I'm advancing my front-end capabilities through a **Front-End Web Development bootcamp** at the same school, where I'm eager to learn Vue.js.
+<table>
+  <tr>
+    <td>
+      <p>2023</p>
+    </td>
+    <td>
+      <p>Bootcamp in <strong>Back-End</strong> web development at <a href="https://lp.ironhack.com/enterprise/amazon_es" target="_blank" noopener noreferrer>IronHack</a></p>
+    </td>
+    <td>
+      <p>I immersed myself in Java, Spring Boot, JPA, SQL (MySQL), and Git, culminating in the development of <a href="[https://github.com/ironhack](https://github.com/carlostxrres/inmoBarcelona)" target="_blank" noopener noreferrer>a Barcelona real estate API</a> for publishing, searching, and bookmarking listings.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>2024</p>
+    </td>
+    <td>
+      <p>Bootcamp in <strong>Front-End</strong> web development at <a href="https://lp.ironhack.com/enterprise/amazon_es" target="_blank" noopener noreferrer>IronHack</a></p>
+    </td>
+    <td>
+      <p>Advanced my front-end capabilities with Vue.js.</p>
+    </td>
+  </tr>
+</table>
 
 Before my dive into the tech world, my academic and professional background was in political science and linguistics.
 
@@ -34,12 +56,12 @@ Before my dive into the tech world, my academic and professional background was 
       <p>Technologies I'm actively exploring, mostly outside of work commitments. I use them without the confidence of following best practices, but with the eagerness to learn and broaden my skillset.</p>
       <p>
         <img src="https://img.shields.io/badge/Node%20JS-gray?style=flat-square&logo=nodedotjs" alt="Node JS badge">
+        <img src="https://img.shields.io/badge/Vue%20JS-gray?style=flat-square&logo=vuedotjs" alt="Vue badge">
         <img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square&logo=typescript" alt="TypeScript badge">
         <img src="https://img.shields.io/badge/React-gray?style=flat-square&logo=react" alt="React badge">
         <img src="https://img.shields.io/badge/Sass-gray?style=flat-square&logo=sass" alt="Sass badge">
         <img src="https://img.shields.io/badge/Git-gray?style=flat-square&logo=git" alt="Git badge">
         <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github" alt="GitHub badge">
-        <img src="https://img.shields.io/badge/Vue%20JS-gray?style=flat-square&logo=vuedotjs" alt="Vue badge">
         <img src="https://img.shields.io/badge/Windows%20Terminal-gray?style=flat-square&logo=windowsterminal" alt="Windows terminal badge">
         <img src="https://img.shields.io/badge/AWS%20API%20Gateway-gray?style=flat-square&logo=amazonapigateway" alt="AWS API Gateway badge">
         <img src="https://img.shields.io/badge/AWS%20Lambda-gray?style=flat-square&logo=awslambda" alt="AWS API Lambda badge">
