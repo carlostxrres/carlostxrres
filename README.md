@@ -2,7 +2,7 @@
 
 <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="14"/> Hi there,
 
-I'm a passionate **vanilla JavaScript developer with 2 years of hands-on experience**. Currently, I'm working at <img width="12" src="https://cdn.simpleicons.org/amazon/ff9900/ffbd60" /> Amazon, where I dedicate my skills to streamlining processes and boosting productivity for a customer support team with complex business needs. My professional role has empowered me to take full ownership of projects, from conception to deployment, enabling me to architect and think at scale.
+I'm a passionate **JavaScript developer with +1.5 years of hands-on experience**. Currently, I'm working at <img width="12" src="https://cdn.simpleicons.org/amazon/ff9900/ffbd60" /> Amazon, where I dedicate my skills to streamlining processes and boosting productivity for a customer support team with complex business needs. My professional role has empowered me to take full ownership of projects, from conception to deployment, enabling me to architect and think at scale.
 
 I'm obsessed with writing **clean, maintainable code** and following the best practices. I'm particularly enthusiastic about the advancements in modern JavaScript (ES6 and beyond).
 
