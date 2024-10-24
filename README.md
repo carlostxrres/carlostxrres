@@ -57,6 +57,7 @@ Before my dive into the tech world, my academic and professional background was 
       <p>
         <img src="https://img.shields.io/badge/Node%20JS-gray?style=flat-square&logo=nodedotjs" alt="Node JS badge">
         <img src="https://img.shields.io/badge/Vue%20JS-gray?style=flat-square&logo=vuedotjs" alt="Vue badge">
+        <img src="https://img.shields.io/badge/Quasar-gray?style=flat-square&logo=quasar" alt="Quasar badge">
         <img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square&logo=typescript" alt="TypeScript badge">
         <img src="https://img.shields.io/badge/React-gray?style=flat-square&logo=react" alt="React badge">
         <img src="https://img.shields.io/badge/Sass-gray?style=flat-square&logo=sass" alt="Sass badge">
