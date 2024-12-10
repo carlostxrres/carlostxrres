@@ -38,15 +38,13 @@ Before my dive into the tech world, my academic and professional background was 
         <img src="https://img.shields.io/badge/Node%20JS-gray?style=flat-square&logo=nodedotjs" alt="Node JS badge">
         <img src="https://img.shields.io/badge/Vue%20JS-gray?style=flat-square&logo=vuedotjs" alt="Vue badge">
         <img src="https://img.shields.io/badge/Quasar-gray?style=flat-square&logo=quasar" alt="Quasar badge">
+        <img src="https://img.shields.io/badge/Python-gray?style=flat-square&logo=python" alt="Python badge">
+        <img src="https://img.shields.io/badge/AWS-gray?style=flat-square&logo=amazonaws" alt="AWS badge">
         <img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square&logo=typescript" alt="TypeScript badge">
-        <img src="https://img.shields.io/badge/React-gray?style=flat-square&logo=react" alt="React badge">
         <img src="https://img.shields.io/badge/Sass-gray?style=flat-square&logo=sass" alt="Sass badge">
         <img src="https://img.shields.io/badge/Git-gray?style=flat-square&logo=git" alt="Git badge">
         <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github" alt="GitHub badge">
         <img src="https://img.shields.io/badge/Windows%20Terminal-gray?style=flat-square&logo=windowsterminal" alt="Windows terminal badge">
-        <img src="https://img.shields.io/badge/AWS%20API%20Gateway-gray?style=flat-square&logo=amazonapigateway" alt="AWS API Gateway badge">
-        <img src="https://img.shields.io/badge/AWS%20Lambda-gray?style=flat-square&logo=awslambda" alt="AWS API Lambda badge">
-        <img src="https://img.shields.io/badge/AWS%20DynamoDB-gray?style=flat-square&logo=amazondynamodb" alt="AWS DynamoDB badge">
       </p>
   </tr>
   <tr>
@@ -56,15 +54,17 @@ Before my dive into the tech world, my academic and professional background was 
         <img src="https://img.shields.io/badge/Java-gray?style=flat-square&logo=java" alt="Java badge">
         <img src="https://img.shields.io/badge/Spring%20Boot-gray?style=flat-square&logo=springboot" alt="Spring Boot badge">
         <img src="https://img.shields.io/badge/MySQL-gray?style=flat-square&logo=mysql" alt="MySQL badge">
-        <img src="https://img.shields.io/badge/Python-gray?style=flat-square&logo=python" alt="Python badge">
+        <img src="https://img.shields.io/badge/AWS%20API%20Gateway-gray?style=flat-square&logo=amazonapigateway" alt="AWS API Gateway badge">
+        <img src="https://img.shields.io/badge/AWS%20Lambda-gray?style=flat-square&logo=awslambda" alt="AWS API Lambda badge">
+        <img src="https://img.shields.io/badge/AWS%20DynamoDB-gray?style=flat-square&logo=amazondynamodb" alt="AWS DynamoDB badge">
     </td>
     <td valign="top" width="50%">
       <h3>👀 On my radar</h3>
       <p>Technologies that have piqued my interest and are next in line for my learning journey. While not yet a part of my toolkit, they represent the direction I'm excited to take.</p>
         <img src="https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linux" alt="Linux badge">
-        <img src="https://img.shields.io/badge/AWS-gray?style=flat-square&logo=amazonaws" alt="AWS badge">
         <img src="https://img.shields.io/badge/Next%20JS-gray?style=flat-square&logo=nextdotjs" alt="Next JS badge">
         <img src="https://img.shields.io/badge/Astro-gray?style=flat-square&logo=astro" alt="Astro badge">
+        <img src="https://img.shields.io/badge/React-gray?style=flat-square&logo=react" alt="React badge">
     </td>
   </tr>
 </table>
