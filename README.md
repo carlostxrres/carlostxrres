@@ -6,32 +6,12 @@ I'm a passionate **JavaScript developer with +1.5 years of hands-on experience**
 
 I'm obsessed with writing **clean, maintainable code** and following the best practices. I'm particularly enthusiastic about the advancements in modern JavaScript (ES6 and beyond).
 
-While my journey in tech is mostly self-taught, I've enriched my experience through rigorous training programs focused on both front-end and back-end technologies:
+While my journey in tech is mostly self-taught, I've enriched my experience through rigorous training programs focused on both front-end and back-end technologies, all of them at [Ironhack](https://www.ironhack.com/):
 
-<table>
-  <tr>
-    <td>
-      <p>2023</p>
-    </td>
-    <td>
-      <p>Bootcamp in <strong>back-end</strong> web development at <a href="https://lp.ironhack.com/enterprise/amazon_es" target="_blank" noopener noreferrer>IronHack</a></p>
-    </td>
-    <td>
-      <p>I immersed myself in Java, Spring Boot, JPA, SQL (MySQL), and Git, culminating in the development of <a href="https://github.com/carlostxrres/inmoBarcelona" target="_blank" noopener noreferrer>a Barcelona real estate API</a> for publishing, searching, and bookmarking listings.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>2024</p>
-    </td>
-    <td>
-      <p>Bootcamp in <strong>front-end</strong> web development at <a href="https://lp.ironhack.com/enterprise/amazon_es" target="_blank" noopener noreferrer>IronHack</a></p>
-    </td>
-    <td>
-      <p>Advanced my front-end capabilities with Vue.js.</p>
-    </td>
-  </tr>
-</table>
+| Year | Title                                 |
+| ---- | ------------------------------------- |
+| 2024 | Bootcamp in front-end web development |
+| 2023 | Bootcamp in back-end web development  |
 
 Before my dive into the tech world, my academic and professional background was in political science and linguistics.
 
